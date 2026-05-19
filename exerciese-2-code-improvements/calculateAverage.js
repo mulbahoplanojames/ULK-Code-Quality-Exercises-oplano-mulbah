@@ -1,6 +1,6 @@
 /*
 
-Code the needs improvements
+Code that needs improvements
 
 function calculateAverage(numbers) {
   var sum = 0;
