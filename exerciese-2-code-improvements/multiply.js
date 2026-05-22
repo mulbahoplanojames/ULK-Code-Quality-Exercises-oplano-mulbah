@@ -1,14 +1,3 @@
-/*
-
-Function that needs improvements 
-
-
-function mult(x,y){
-  return x*y;
-}
-
-*/
-
 const multiply = (number1, number2) => {
   return number1 * number2;
 };
